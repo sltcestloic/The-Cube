@@ -2,3 +2,4 @@ name: Thecube
 version: '${project.version}'
 main: party.bits.thecube.Thecube
 api-version: 1.18
+author: Loïc
