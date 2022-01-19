@@ -1,2 +1,2 @@
-# The-Cube
+# The Cube
 le cube
